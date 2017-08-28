@@ -25,7 +25,7 @@
 git clone https://github.com/F3eev/Check.git 
 <a id="markdown-引用" name="引用"></a>
 # 引用
-新建main_check.py
+把你的代码加入到main_check.py 即可
 
 `from Check.Check import *`
 <a id="markdown-开始使用" name="开始使用"></a>
